@@ -34,8 +34,12 @@
 <br />
 
 --- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakilk130&layout=compact)](https://github.com/sakilk130/github-readme-stats)
 
+--- 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sakilk130&show_icons=true&theme=radical)
+
+--- 
 
 
 [website]: https://ksakil.wordpress.com/
