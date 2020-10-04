@@ -34,7 +34,7 @@
 
 --- 
 
-<img align="left" alt="Sakil's GitHub Stars" src="https://github-readme-stars.vercel.app/api?username=sakilk130&show_icon=true&hide_border=true"/>
+<img align="left" alt="Sakil's GitHub Stars" src="https://github-readme-stars.vercel.app/api?username=sakilk130&show_icons=true&hide_border=true"/>
 
 
 [website]: https://ksakil.wordpress.com/
