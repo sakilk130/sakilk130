@@ -32,5 +32,10 @@
 <br />
 <br />
 
+--- 
+
+<img align="left" alt="Sakil's GitHub Stars" src="https://github-readme-stars.vercel.app/api?username=sakilk130&show_icon=true&hide_border=true"/>
+
+
 [website]: https://ksakil.wordpress.com/
 [linkedin]: https://www.linkedin.com/in/sakil-khan-076926145/
