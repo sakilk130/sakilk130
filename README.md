@@ -1,6 +1,6 @@
-### Hi there, I'm Sakil Khan.
+## Hi there, I'm Sakil Khan.
 
-## I'm a Web Developer !
+### I'm a Web Developer !
 
 - 🔨 I’m currently working on react.js
 - 📖 I’m currently learning JavaScript
