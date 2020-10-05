@@ -35,7 +35,7 @@
 
 --- 
 ![Sakil's github stats](https://github-readme-stats.vercel.app/api?username=sakilk130&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakilk130&langs_count=8)](https://github.com/sakilk130/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakilk130&langs_count=10)](https://github.com/sakilk130/github-readme-stats)
 
 ---
 [![Sakil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakilk130)](https://github.com/sakilk130/github-readme-stats)
