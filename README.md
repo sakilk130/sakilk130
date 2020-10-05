@@ -39,7 +39,7 @@
 
 
 ---
- <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakilk130&theme=radical">
+ <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakilk130&langs_count=10&theme=radical">
 
 [website]: https://ksakil.wordpress.com/
 [linkedin]: https://www.linkedin.com/in/sakil-khan-076926145/
