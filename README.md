@@ -35,10 +35,10 @@
 
 --- 
 ![Sakil's github stats](https://github-readme-stats.vercel.app/api?username=sakilk130&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakilk130&langs_count=10)](https://github.com/sakilk130/github-readme-stats)
+ <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakilk130&theme=radical">
 
 ---
-[![Sakil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakilk130)](https://github.com/sakilk130/github-readme-stats)
+<img alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=sakilk130&theme=radical">
 
 [website]: https://ksakil.wordpress.com/
 [linkedin]: https://www.linkedin.com/in/sakil-khan-076926145/
