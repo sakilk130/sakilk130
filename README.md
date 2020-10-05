@@ -40,6 +40,5 @@
 ---
 [![Sakil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sakilk130)](https://github.com/sakilk130/github-readme-stats)
 
-
 [website]: https://ksakil.wordpress.com/
 [linkedin]: https://www.linkedin.com/in/sakil-khan-076926145/
