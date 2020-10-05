@@ -35,7 +35,7 @@
 
 --- 
 ![Sakil's github stats](https://github-readme-stats.vercel.app/api?username=sakilk130&show_icons=true&theme=radical)
-<img alt="Top Languages" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=sakilkhan130&cache_seconds=1800&layout=compact&theme=prussian" />
+<img alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=sakilk130&theme=radical">
 
 
 ---
