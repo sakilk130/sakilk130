@@ -35,7 +35,7 @@
 
 --- 
 ![Sakil's github stats](https://github-readme-stats.vercel.app/api?username=sakilk130&show_icons=true&theme=radical)
-<img alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=sakilk130&theme=radical">
+<img alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sakilkhan130&theme=radical">
 
 
 ---
