@@ -2,7 +2,7 @@
 
 ### I'm a Web Developer !
 
-- 🔨 I’m currently working on react.js
+- 🔨 I’m currently working on Node.js and Express.js
 - 📖 I’m currently learning JavaScript
 - ⚽ 2020 Goals: MERN Stack JavaScript Developer
 - 🤔 After 2020 next goal is pending 😂
