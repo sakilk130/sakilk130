@@ -35,11 +35,11 @@
 
 --- 
 ![Sakil's github stats](https://github-readme-stats.vercel.app/api?username=sakilk130&show_icons=true&theme=radical)
-<img alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=sakilkhan130&theme=radical">
+<img alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=sakilk130&theme=radical">
 
 
 ---
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakilk130&langs_count=10&theme=radical">
 
-[website]: https://ksakil.wordpress.com/
+[website]: http://sakilkhan.netlify.app/
 [linkedin]: https://www.linkedin.com/in/sakil-khan-076926145/
