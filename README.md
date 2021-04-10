@@ -4,8 +4,8 @@
 
 - 🔨 I’m currently working on Node.js and Express.js
 - 📖 I’m currently learning JavaScript
-- ⚽ 2020 Goals: MERN Stack JavaScript Developer
-- 🤔 After 2020 next goal is pending 😂
+- ⚽ 2021 Goals: MERN Stack JavaScript Developer
+- 🤔 After 2022 next goal is pending 😂
 - 💌 Email: sakilk130@gmail.com
 
 ### Connect with me:
