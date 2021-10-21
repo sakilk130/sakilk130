@@ -67,7 +67,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
   <summary><b>📊 Weekly development breakdown</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sakilk130&theme=radical&hide_border=true">
+  <img height="320em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sakilk130&theme=radical&hide_border=true">
 </details>
 
 ### Show some ❤️ by starring some of the repositories!
