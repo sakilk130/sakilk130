@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakil-khan-076926145/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sakilkhan.netlify.app/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sakilk130)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-e4405f?style=flat-square&logo=Gmail&logoColor=white)](sakilk130@gmail.com)
+<a href = "mailto: sakilk130@gmail.com">[![Gmail Badge](https://img.shields.io/badge/-Gmail-e4405f?style=flat-square&logo=Gmail&logoColor=white)]</a>
+
 
 ###
 
