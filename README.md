@@ -16,7 +16,7 @@
 I'm a Software Engineer 🤓, alumus of [American International University-Bangladesh (AIUB) 🎓](https://www.aiub.edu/). Currently seeking a role in backend developer.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I love to explore new technologies and leverage them to solve real-life problems ✨.
 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-<img align="right" height="250" width="375" alt="" src="" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/sakilk130/sakilk130/blob/master/code.gif" />
 
 ### Talking about Personal Stuffs:
 
