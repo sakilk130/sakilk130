@@ -23,7 +23,7 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
 - 🚀 &nbsp; Software Engineer.
 - 🛠 &nbsp; I’m currently working with Node.js, React.js, JavaScript, MySQL, MongoDB etc.
 - 👨🏻‍💻 &nbsp; Most of my open-source projects are available on [Github](https://github.com/sakilk130?tab=repositories).
-- 📝 &nbsp; Checkout my [Resume]().
+- 📝 &nbsp; Checkout my [Resume](https://github.com/sakilk130/sakilk130/blob/master/Sakil's_Resume.pdf).
 
 ### My Absolute Favorites:
 
