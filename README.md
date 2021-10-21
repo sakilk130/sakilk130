@@ -63,6 +63,12 @@ I'm currently into Web Development 🕸️ and working on my Data Structures and
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sakilk130&hide_border=true&theme=radical" />
 </details>
+<details>
+  <summary><b>📊 Weekly development breakdown</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=sakilk130&theme=radical&hide_border=true">
+</details>
 
 ### Show some ❤️ by starring some of the repositories!
 
