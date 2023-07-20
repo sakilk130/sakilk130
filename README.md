@@ -7,7 +7,7 @@
 
 ###
 
-[![](https://gitscores.herokuapp.com/badge?username=sakilk130&label=Gitscore%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitscores.herokuapp.com/)
+![](https://komarev.com/ghpvc/?username=sakilk130)
 
 ###
 
