@@ -13,15 +13,14 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sakilk130&style=flat-square&color=0088cc)
 
-I'm a Software Engineer 🤓, alumus of [American International University-Bangladesh (AIUB) 🎓](https://www.aiub.edu/). Currently seeking a role in backend developer.I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.I love to explore new technologies and leverage them to solve real-life problems ✨.
-I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I’m a Software Engineer 🤓 and a proud alumnus of [American International University-Bangladesh (AIUB) 🎓](https://www.aiub.edu/). I’m passionate about learning and working across diverse technologies and domains 💡. Currently, I’m focused on web development 🕸️ and actively enhancing my knowledge in Data Structures and Algorithms 🤓. I love exploring innovative solutions to real-world problems ✨ and continuously aim to grow and improve 🚀.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/sakilk130/sakilk130/blob/master/code.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🚀 &nbsp; Software Engineer.
-- 🛠 &nbsp; I’m currently working with Node.js, React.js, JavaScript, MySQL, MongoDB etc.
+- 🚀 &nbsp;  Full Stack Developer.
+- 🛠 &nbsp; Currently working with React, Next.js, TypeScript, NestJS, Node.js, and MySQL.
 - 👨🏻‍💻 &nbsp; Most of my open-source projects are available on [Github](https://github.com/sakilk130?tab=repositories).
 - 📝 &nbsp; Checkout my [Resume](https://github.com/sakilk130/sakilk130/blob/master/Sakil's_Resume.pdf).
 
